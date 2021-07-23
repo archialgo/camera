@@ -16,6 +16,13 @@ Camera by Zifeng Guo
 	<dependency>
 	    <groupId>com.github.archialgo</groupId>
 	    <artifactId>camera</artifactId>
-	    <version>1.0</version>
+	    <version>Tag</version>
 	</dependency>
 ```
+
+## Release Notes
+### 1.0
+- package name: Guo_Cam
+### 1.1
+- package name: guo_cam
+- switch the left and right button of mouse controller
