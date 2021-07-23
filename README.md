@@ -22,7 +22,7 @@ Camera by Zifeng Guo
 
 ## Release Notes
 ### 1.0
-- package name: Guo_Cam
+- package name: `Guo_Cam`
 ### 1.1
-- package name: guo_cam
+- package name: `guo_cam`
 - switch the left and right button of mouse controller
